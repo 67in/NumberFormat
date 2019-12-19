@@ -1,0 +1,20 @@
+{
+    "name": "number-format/number-format",
+    "description": "一个数字的包",
+    "authors": [
+        {
+            "name": "i-liuqin",
+            "email": "i-liuqin@360.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "NumberFormat\\": "src/"
+        }
+    },
+    "license": "MIT"
+}
